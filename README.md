@@ -6,7 +6,7 @@
 👀 Estou interessado em desenvolver minha prática de programação usando o GIT! <br>
 💞️ Cursando Ciência da Computação no Instituto Federal de Minas Gerais. <br>
 📫 Contato: emanuelmelo0049538@gmail.com <br>
-
+👋 Em busca de novos desafios
 
 ### Estudando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
