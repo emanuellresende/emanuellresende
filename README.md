@@ -1,11 +1,11 @@
 ## Emanuel Melo
 ### Olá, bem vindo! 
 
-👋 Olá, eu sou o Emanuel! Sou desenvolvedor FULL-STACK!
-🔭 Atualmente a procura de um novo desafio..
-👀 Estou interessado em desenvolver minha prática de programação usando o GIT!
-💞️ Bacharel em Ciência da Computação na Universidade Federal de Catalão.
-📫 Contato: emanuelmelo0049538@gmail.com
+👋 Olá, eu sou o Emanuel! Sou desenvolvedor FULL-STACK! <br>
+🔭 Atualmente a procura de um novo desafio.. <br>
+👀 Estou interessado em desenvolver minha prática de programação usando o GIT! <br>
+💞️ Cursando Ciência da Computação no Instituto Federal de Minas Gerais. <br>
+📫 Contato: emanuelmelo0049538@gmail.com <br>
 
 
 ### Estudando
