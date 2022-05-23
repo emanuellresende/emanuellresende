@@ -3,7 +3,7 @@
 
 👋 Olá, eu sou o Emanuel! Sou desenvolvedor FULL-STACK! <br>
 🔭 Desenvolvedor Web Full Stack na [Syonet](https://syonet.com.br/). <br>
-👀 Estou interessado em desenvolver minha prática de programação usando o GIT! <br>
+👀 React, Node, TypeScript, MongoDb, Mysql, Postgressql <br>
 💞️ Cursando Ciência da Computação no Instituto Federal de Minas Gerais. <br>
 📫 Contato: emanuelmelo0049538@gmail.com <br>
 
