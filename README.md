@@ -2,7 +2,7 @@
 ### Olá, bem vindo! 
 
 👋 Olá, eu sou o Emanuel! Sou desenvolvedor FULL-STACK! <br>
-🔭 Desenvolvedor Web Full Stack na [Syonet](https://www.figma.com/community/file/1102912516166573468). <br>
+🔭 Desenvolvedor Web Full Stack na [Syonet]([https://www.figma.com/community/file/1102912516166573468](https://syonet.com.br/)). <br>
 👀 Estou interessado em desenvolver minha prática de programação usando o GIT! <br>
 💞️ Cursando Ciência da Computação no Instituto Federal de Minas Gerais. <br>
 📫 Contato: emanuelmelo0049538@gmail.com <br>
